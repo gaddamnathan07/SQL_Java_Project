@@ -1,2 +1,2 @@
 # SQL_Java_Project
-Inventory Management System
+Inventory Management Systems
